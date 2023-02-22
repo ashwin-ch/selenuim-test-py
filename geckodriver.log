@@ -1,0 +1,864 @@
+1677234963482	geckodriver	INFO	Listening on 127.0.0.1:46765
+1677234964486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6DTrPZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677234965156	Marionette	INFO	Marionette enabled
+1677234965160	Marionette	INFO	Listening on port 39917
+Read port: 39917
+1677234965261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6DTrPZ/search.json.mozlz4", (void 0)))
+1677234971751	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677234977864	Marionette	INFO	Stopped listening on port 39917
+1677235006108	geckodriver	INFO	Listening on 127.0.0.1:52509
+1677235006111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilejtKQKf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677235006670	Marionette	INFO	Marionette enabled
+1677235006673	Marionette	INFO	Listening on port 36949
+Read port: 36949
+1677235006750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejtKQKf/search.json.mozlz4", (void 0)))
+1677235012731	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677235013751	Marionette	INFO	Stopped listening on port 36949
+1677235020970	geckodriver	INFO	Listening on 127.0.0.1:36847
+1677235021974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8NmBcv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677235022502	Marionette	INFO	Marionette enabled
+1677235022505	Marionette	INFO	Listening on port 40219
+Read port: 40219
+1677235022680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8NmBcv/search.json.mozlz4", (void 0)))
+1677235028555	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677235029574	Marionette	INFO	Stopped listening on port 40219
+1677235030171	geckodriver	INFO	Listening on 127.0.0.1:53531
+1677235031174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVkEwql"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677235031697	Marionette	INFO	Marionette enabled
+1677235031701	Marionette	INFO	Listening on port 41765
+Read port: 41765
+1677235031881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVkEwql/search.json.mozlz4", (void 0)))
+1677235037783	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677235038848	Marionette	INFO	Stopped listening on port 41765
+1677235039419	geckodriver	INFO	Listening on 127.0.0.1:51551
+1677235040422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilevIXLW7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677235040930	Marionette	INFO	Marionette enabled
+1677235040934	Marionette	INFO	Listening on port 42983
+Read port: 42983
+1677235041121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevIXLW7/search.json.mozlz4", (void 0)))
+1677235047014	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677235048068	Marionette	INFO	Stopped listening on port 42983
+1677235048793	geckodriver	INFO	Listening on 127.0.0.1:33861
+1677235049796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5qE9NG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677235050304	Marionette	INFO	Marionette enabled
+1677235050307	Marionette	INFO	Listening on port 46847
+Read port: 46847
+1677235050486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5qE9NG/search.json.mozlz4", (void 0)))
+1677235056257	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677235057305	Marionette	INFO	Stopped listening on port 46847
+1677235057983	geckodriver	INFO	Listening on 127.0.0.1:56907
+1677235058986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUSbAeP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677235059487	Marionette	INFO	Marionette enabled
+1677235059491	Marionette	INFO	Listening on port 36833
+Read port: 36833
+1677235059669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUSbAeP/search.json.mozlz4", (void 0)))
+1677235065445	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677235068679	Marionette	INFO	Stopped listening on port 36833
+1677235069427	geckodriver	INFO	Listening on 127.0.0.1:37915
+1677235070431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3Anp7j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677235070983	Marionette	INFO	Marionette enabled
+1677235070986	Marionette	INFO	Listening on port 43305
+Read port: 43305
+1677235071082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3Anp7j/search.json.mozlz4", (void 0)))
+1677235077000	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677235113167	Marionette	INFO	Stopped listening on port 43305
+1677235113753	geckodriver	INFO	Listening on 127.0.0.1:33555
+1677235114756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileyXxdz3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677235115255	Marionette	INFO	Marionette enabled
+1677235115259	Marionette	INFO	Listening on port 46749
+Read port: 46749
+1677235115434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyXxdz3/search.json.mozlz4", (void 0)))
+1677235121261	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677235128238	Marionette	INFO	Stopped listening on port 46749
+1677235128884	geckodriver	INFO	Listening on 127.0.0.1:54223
+1677235129887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileASr7wc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677235130404	Marionette	INFO	Marionette enabled
+1677235130408	Marionette	INFO	Listening on port 41649
+Read port: 41649
+1677235130585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileASr7wc/search.json.mozlz4", (void 0)))
+1677235136307	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://the-internet.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://the-internet.herokuapp.com."
+1677235144552	Marionette	INFO	Stopped listening on port 41649
+1677235145157	geckodriver	INFO	Listening on 127.0.0.1:45243
+1677235146161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileaBXvzf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677235146682	Marionette	INFO	Marionette enabled
+1677235146686	Marionette	INFO	Listening on port 41849
+Read port: 41849
+1677235146859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaBXvzf/search.json.mozlz4", (void 0)))
+1677235152645	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677235160404	Marionette	INFO	Stopped listening on port 41849
+1677235160992	geckodriver	INFO	Listening on 127.0.0.1:37455
+1677235161995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemU1VSW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677235162532	Marionette	INFO	Marionette enabled
+1677235162536	Marionette	INFO	Listening on port 46403
+Read port: 46403
+1677235162706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemU1VSW/search.json.mozlz4", (void 0)))
+1677235168445	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677235174220	Marionette	INFO	Stopped listening on port 46403
+1677235174800	geckodriver	INFO	Listening on 127.0.0.1:55289
+1677235175805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileMc81R8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677235176314	Marionette	INFO	Marionette enabled
+1677235176317	Marionette	INFO	Listening on port 44177
+Read port: 44177
+1677235176497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMc81R8/search.json.mozlz4", (void 0)))
+1677235182280	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677235184638	Marionette	INFO	Stopped listening on port 44177
+1677238230490	geckodriver	INFO	Listening on 127.0.0.1:39741
+1677238230493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5aCNxE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677238230987	Marionette	INFO	Marionette enabled
+1677238230990	Marionette	INFO	Listening on port 34779
+Read port: 34779
+1677238231058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:5519): Gdk-WARNING **: 12:30:31.332: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: -1817571264
+
+(firefox:5519): Gdk-WARNING **: 12:30:31.333: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: -1826898576
+
+(firefox:5519): Gdk-WARNING **: 12:30:31.333: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: -1817598256
+
+(firefox:5519): Gdk-WARNING **: 12:30:31.333: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: -1817596544
+
+(firefox:5519): Gdk-WARNING **: 12:30:31.333: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: -1817595352
+
+(firefox:5519): Gdk-WARNING **: 12:30:31.333: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: -1817597264
+
+(firefox:5519): Gdk-WARNING **: 12:30:31.333: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: -848667232
+
+(firefox:5519): Gdk-WARNING **: 12:30:31.333: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 1667460464
+
+(firefox:5519): Gdk-WARNING **: 12:30:31.333: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 65535
+
+(firefox:5519): Gdk-WARNING **: 12:30:31.333: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 65535
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5aCNxE/search.json.mozlz4", (void 0)))
+1677238236929	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677238242985	Marionette	INFO	Stopped listening on port 34779
+1677238286696	geckodriver	INFO	Listening on 127.0.0.1:49375
+1677238286705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesHRxIH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677238287242	Marionette	INFO	Marionette enabled
+1677238287246	Marionette	INFO	Listening on port 35491
+Read port: 35491
+1677238287404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.579: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: -811093120
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: -604396096
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 66343536
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 16741205
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 1048576
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 83916812
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 66462320
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 31045
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 58720256
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 29196
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 66593392
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: -16631783
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 73220
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 33699865
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 1791
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 34682898
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 126804735
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.580: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 141826
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.581: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 3840
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.581: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 286342018
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.581: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 2048
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.581: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 174594
+
+(firefox:7702): Gdk-WARNING **: 12:31:27.581: ../../../../../gdk/x11/gdkproperty-x11.c:224 invalid X atom: 3840
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesHRxIH/search.json.mozlz4", (void 0)))
+1677238293157	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677238299457	Marionette	INFO	Stopped listening on port 35491
+1677238364944	geckodriver	INFO	Listening on 127.0.0.1:50649
+1677238364949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNGrIOL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677238365478	Marionette	INFO	Marionette enabled
+1677238365482	Marionette	INFO	Listening on port 44771
+Read port: 44771
+1677238365644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNGrIOL/search.json.mozlz4", (void 0)))
+1677238371429	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677238382867	Marionette	INFO	Stopped listening on port 44771
+1677238546644	geckodriver	INFO	Listening on 127.0.0.1:56785
+1677238546654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileycLYbS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677238547175	Marionette	INFO	Marionette enabled
+1677238547178	Marionette	INFO	Listening on port 39141
+Read port: 39141
+1677238547343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileycLYbS/search.json.mozlz4", (void 0)))
+1677238553095	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677238569616	Marionette	INFO	Stopped listening on port 39141
+1677238691260	geckodriver	INFO	Listening on 127.0.0.1:49037
+1677238692272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileovEdDy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677238692867	Marionette	INFO	Marionette enabled
+1677238692871	Marionette	INFO	Listening on port 43013
+Read port: 43013
+1677238692938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileovEdDy/search.json.mozlz4", (void 0)))
+1677238698866	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677238715343	Marionette	INFO	Stopped listening on port 43013
+1677239746347	geckodriver	INFO	Listening on 127.0.0.1:58165
+1677239747359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilekRz1cA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677239747952	Marionette	INFO	Marionette enabled
+1677239747956	Marionette	INFO	Listening on port 40047
+Read port: 40047
+1677239748022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekRz1cA/search.json.mozlz4", (void 0)))
+1677239753877	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677239754955	Marionette	INFO	Stopped listening on port 40047
+1677239755593	geckodriver	INFO	Listening on 127.0.0.1:60625
+1677239756604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileN9bM5F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677239757211	Marionette	INFO	Marionette enabled
+1677239757215	Marionette	INFO	Listening on port 38823
+Read port: 38823
+1677239757377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN9bM5F/search.json.mozlz4", (void 0)))
+1677239763093	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677239765572	Marionette	INFO	Stopped listening on port 38823
+1677239766158	geckodriver	INFO	Listening on 127.0.0.1:57681
+1677239767169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileYKcQXR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677239767742	Marionette	INFO	Marionette enabled
+1677239767746	Marionette	INFO	Listening on port 44297
+Read port: 44297
+1677239767812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYKcQXR/search.json.mozlz4", (void 0)))
+1677239773662	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677239774799	Marionette	INFO	Stopped listening on port 44297
+1677239775464	geckodriver	INFO	Listening on 127.0.0.1:38391
+1677239776470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefvSD4k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677239777001	Marionette	INFO	Marionette enabled
+1677239777004	Marionette	INFO	Listening on port 40247
+Read port: 40247
+1677239777165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefvSD4k/search.json.mozlz4", (void 0)))
+1677239782943	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677239784035	Marionette	INFO	Stopped listening on port 40247
+1677239784700	geckodriver	INFO	Listening on 127.0.0.1:33773
+1677239785711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5L6KHo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677239786248	Marionette	INFO	Marionette enabled
+1677239786251	Marionette	INFO	Listening on port 46773
+Read port: 46773
+1677239786412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5L6KHo/search.json.mozlz4", (void 0)))
+1677239792130	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677239796377	Marionette	INFO	Stopped listening on port 46773
+1677239796954	geckodriver	INFO	Listening on 127.0.0.1:51231
+1677239797965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileELxtLZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677239798492	Marionette	INFO	Marionette enabled
+1677239798496	Marionette	INFO	Listening on port 35253
+Read port: 35253
+1677239798657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileELxtLZ/search.json.mozlz4", (void 0)))
+1677239804341	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677239840707	Marionette	INFO	Stopped listening on port 35253
+1677239841392	geckodriver	INFO	Listening on 127.0.0.1:39765
+1677239842398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileB3w3L7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677239842921	Marionette	INFO	Marionette enabled
+1677239842924	Marionette	INFO	Listening on port 38673
+Read port: 38673
+1677239843089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB3w3L7/search.json.mozlz4", (void 0)))
+1677239848790	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677239865276	Marionette	INFO	Stopped listening on port 38673
+1677239865855	geckodriver	INFO	Listening on 127.0.0.1:34733
+1677239866861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileZsLfER"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677239867420	Marionette	INFO	Marionette enabled
+1677239867424	Marionette	INFO	Listening on port 41123
+Read port: 41123
+1677239867489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZsLfER/search.json.mozlz4", (void 0)))
+1677239873306	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://the-internet.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://the-internet.herokuapp.com."
+1677239881979	Marionette	INFO	Stopped listening on port 41123
+1677239882619	geckodriver	INFO	Listening on 127.0.0.1:39959
+1677239883625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilea8J4v5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677239884125	Marionette	INFO	Marionette enabled
+1677239884128	Marionette	INFO	Listening on port 41301
+Read port: 41301
+1677239884292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea8J4v5/search.json.mozlz4", (void 0)))
+1677239890032	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677239897876	Marionette	INFO	Stopped listening on port 41301
+1677239898680	geckodriver	INFO	Listening on 127.0.0.1:37865
+1677239899693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileGMTX2c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677239900331	Marionette	INFO	Marionette enabled
+1677239900334	Marionette	INFO	Listening on port 42953
+Read port: 42953
+1677239900494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGMTX2c/search.json.mozlz4", (void 0)))
+1677239906213	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677239911232	Marionette	INFO	Stopped listening on port 42953
+1677239911842	geckodriver	INFO	Listening on 127.0.0.1:45063
+1677239912849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilequmVjA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677239913365	Marionette	INFO	Marionette enabled
+1677239913368	Marionette	INFO	Listening on port 41921
+Read port: 41921
+1677239913533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilequmVjA/search.json.mozlz4", (void 0)))
+1677239919267	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677239921660	Marionette	INFO	Stopped listening on port 41921
+1677244236010	geckodriver	INFO	Listening on 127.0.0.1:39253
+1677244237015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledqajYt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677244237551	Marionette	INFO	Marionette enabled
+1677244237555	Marionette	INFO	Listening on port 34199
+Read port: 34199
+1677244237715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledqajYt/search.json.mozlz4", (void 0)))
+1677244243532	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677244260094	Marionette	INFO	Stopped listening on port 34199
+1677246343087	geckodriver	INFO	Listening on 127.0.0.1:46455
+1677246343092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileR9uG3Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677246343814	Marionette	INFO	Marionette enabled
+1677246343819	Marionette	INFO	Listening on port 44169
+Read port: 44169
+1677246343949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR9uG3Y/search.json.mozlz4", (void 0)))
+1677246350551	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677246351613	Marionette	INFO	Stopped listening on port 44169
+1677246358713	geckodriver	INFO	Listening on 127.0.0.1:48913
+1677246359717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilerG0kMv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677246360439	Marionette	INFO	Marionette enabled
+1677246360444	Marionette	INFO	Listening on port 36029
+Read port: 36029
+1677246360581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerG0kMv/search.json.mozlz4", (void 0)))
+1677246367370	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677246368432	Marionette	INFO	Stopped listening on port 36029
+1677246412003	geckodriver	INFO	Listening on 127.0.0.1:46847
+1677246412007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilehhqkn3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677246413135	Marionette	INFO	Marionette enabled
+1677246413141	Marionette	INFO	Listening on port 45381
+Read port: 45381
+1677246413452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehhqkn3/search.json.mozlz4", (void 0)))
+1677246420108	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677246421166	Marionette	INFO	Stopped listening on port 45381
+1677256945537	geckodriver	INFO	Listening on 127.0.0.1:58529
+1677256945547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNJOdhI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677256946253	Marionette	INFO	Marionette enabled
+1677256946258	Marionette	INFO	Listening on port 40829
+Read port: 40829
+1677256946477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNJOdhI/search.json.mozlz4", (void 0)))
+1677256952702	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677256955839	Marionette	INFO	Stopped listening on port 40829
+1677256956619	geckodriver	INFO	Listening on 127.0.0.1:36789
+1677256957625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6RukXh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677256958363	Marionette	INFO	Marionette enabled
+1677256958367	Marionette	INFO	Listening on port 41775
+Read port: 41775
+1677256958469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6RukXh/search.json.mozlz4", (void 0)))
+1677256964915	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677256966029	Marionette	INFO	Stopped listening on port 41775
+1677256966947	geckodriver	INFO	Listening on 127.0.0.1:40585
+1677256967955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileODpcG3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677256968644	Marionette	INFO	Marionette enabled
+1677256968649	Marionette	INFO	Listening on port 42427
+Read port: 42427
+1677256968749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileODpcG3/search.json.mozlz4", (void 0)))
+1677256975191	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677256976310	Marionette	INFO	Stopped listening on port 42427
+1677256977122	geckodriver	INFO	Listening on 127.0.0.1:44709
+1677256978129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileEhDlWr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677256978893	Marionette	INFO	Marionette enabled
+1677256978898	Marionette	INFO	Listening on port 33845
+Read port: 33845
+1677256978999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEhDlWr/search.json.mozlz4", (void 0)))
+1677256985452	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677256986573	Marionette	INFO	Stopped listening on port 33845
+1677256987315	geckodriver	INFO	Listening on 127.0.0.1:39859
+1677256988322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0uYqWv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677256988978	Marionette	INFO	Marionette enabled
+1677256988983	Marionette	INFO	Listening on port 37293
+Read port: 37293
+1677256989088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0uYqWv/search.json.mozlz4", (void 0)))
+1677256995479	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677256998867	Marionette	INFO	Stopped listening on port 37293
+1677256999694	geckodriver	INFO	Listening on 127.0.0.1:35331
+1677257000706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileznkgX8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677257001391	Marionette	INFO	Marionette enabled
+1677257001397	Marionette	INFO	Listening on port 32915
+Read port: 32915
+1677257001497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileznkgX8/search.json.mozlz4", (void 0)))
+1677257007922	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677257045648	Marionette	INFO	Stopped listening on port 32915
+1677257046550	geckodriver	INFO	Listening on 127.0.0.1:47343
+1677257047561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilepIC3X5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677257048211	Marionette	INFO	Marionette enabled
+1677257048216	Marionette	INFO	Listening on port 40319
+Read port: 40319
+1677257048315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepIC3X5/search.json.mozlz4", (void 0)))
+1677257054831	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677257071854	Marionette	INFO	Stopped listening on port 40319
+1677257072758	geckodriver	INFO	Listening on 127.0.0.1:56875
+1677257073770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8fXyy8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677257074510	Marionette	INFO	Marionette enabled
+1677257074515	Marionette	INFO	Listening on port 44237
+Read port: 44237
+1677257074614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8fXyy8/search.json.mozlz4", (void 0)))
+1677257081091	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://the-internet.herokuapp.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://the-internet.herokuapp.com."
+1677257089876	Marionette	INFO	Stopped listening on port 44237
+1677257090608	geckodriver	INFO	Listening on 127.0.0.1:41565
+1677257091616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJ3y620"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677257092318	Marionette	INFO	Marionette enabled
+1677257092323	Marionette	INFO	Listening on port 36289
+Read port: 36289
+1677257092542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ3y620/search.json.mozlz4", (void 0)))
+1677257098875	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677257106778	Marionette	INFO	Stopped listening on port 36289
+1677257107662	geckodriver	INFO	Listening on 127.0.0.1:49799
+1677257108668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3WNKaz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677257109349	Marionette	INFO	Marionette enabled
+1677257109355	Marionette	INFO	Listening on port 35931
+Read port: 35931
+1677257109456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3WNKaz/search.json.mozlz4", (void 0)))
+1677257115853	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677257120929	Marionette	INFO	Stopped listening on port 35931
+1677257121672	geckodriver	INFO	Listening on 127.0.0.1:55643
+1677257122678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile85gOtb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: Policies.jsm: 
+  Unable to find certificate - /usr/local/share/ca-certificates/ciscoumbrellaroot.crt
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1677257123375	Marionette	INFO	Marionette enabled
+1677257123380	Marionette	INFO	Listening on port 42903
+Read port: 42903
+1677257123595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile85gOtb/search.json.mozlz4", (void 0)))
+1677257129943	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.maximizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2499:11
+1677257133520	Marionette	INFO	Stopped listening on port 42903

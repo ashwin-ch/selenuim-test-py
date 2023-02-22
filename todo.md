@@ -1,0 +1,3 @@
+- Create a class for sleep and visualize together
+- Create multi browser support - Done
+- Create class for going into a page
