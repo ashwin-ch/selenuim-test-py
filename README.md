@@ -21,3 +21,7 @@ To install dependencies,
 
 _Optional argument_
 ``` -k <test-case-id>```
+
+
+## Report
+Test verification reports are generated using `pytest-html` module.
